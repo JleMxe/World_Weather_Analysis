@@ -1,0 +1,25 @@
+City_ID,City,Country,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Current Description
+0,Yatou,CN,37.15,122.3833,48.67,39,0,15.79,clear sky
+1,Norman Wells,CA,65.282,-126.8329,17.64,45,20,9.22,few clouds
+2,Orativ,UA,49.1889,29.527,37.47,90,80,9.31,broken clouds
+3,Saldanha,ZA,-33.0117,17.9442,60.22,79,51,5.61,light rain
+4,Erzin,TR,36.9559,36.2,64.74,38,100,1.7,overcast clouds
+5,Chokurdakh,RU,70.6333,147.9167,-3.75,90,15,6.02,few clouds
+6,Dikson,RU,73.5069,80.5464,-0.18,80,14,19.24,few clouds
+7,Ushuaia,AR,-54.8,-68.3,37.06,81,40,25.32,scattered clouds
+8,Villa Carlos Paz,AR,-31.4241,-64.4978,65.39,55,0,4.0,clear sky
+9,Narsaq,GL,60.9167,-46.05,32.22,83,24,0.76,few clouds
+10,Tocopilla,CL,-22.092,-70.1979,71.2,58,91,7.36,overcast clouds
+11,Port Elizabeth,ZA,-33.918,25.5701,63.1,74,0,17.27,clear sky
+12,Bluff,NZ,-46.6,168.3333,52.68,70,74,32.39,broken clouds
+13,Cienfuegos,CU,22.1461,-80.4356,77.23,81,0,4.09,clear sky
+14,Inirida,CO,3.8653,-67.9239,74.23,95,100,2.44,moderate rain
+15,Vrangel,RU,42.7297,133.0839,38.14,39,1,19.75,clear sky
+16,Aosta,IT,45.7667,7.4167,34.0,67,5,2.57,clear sky
+17,Georgetown,MY,5.4112,100.3354,82.35,82,20,5.75,few clouds
+18,Brigantine,US,39.4101,-74.3646,52.05,98,100,6.91,light rain
+19,Nikolskoye,RU,59.7035,30.7861,26.49,78,100,11.1,overcast clouds
+20,Los Llanos De Aridane,ES,28.6585,-17.9182,56.95,72,0,14.97,clear sky
+21,Vardo,NO,70.3705,31.1107,32.97,70,100,27.11,overcast clouds
+22,Punta Arenas,CL,-53.15,-70.9167,39.31,70,0,4.61,clear sky
+23,Lavrentiya,RU,65.5833,-171.0,2.17,77,3,4.5,clear sky
